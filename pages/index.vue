@@ -1,14 +1,26 @@
 <template>
-  <div class="container">
-    <MovieList />
+  <div class="container-fluid">
+    <h1>
+      hi from index page
+    </h1>
   </div>
 </template>
 
 <script>
-import MovieList from '~/components/movies/MovieList.vue'
 export default {
   name: 'IndexPage',
-  components: { MovieList }
+  components: { },
+  data () {
+    return {
+
+    }
+  },
+  method: {
+
+  },
+  async created () {
+
+  }
 }
 </script>
 

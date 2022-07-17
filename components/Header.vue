@@ -6,7 +6,7 @@
       </marquee>
     </h1> -->
     <p class="my-2">
-      hi this is a simple web app called movieapp, this is basically imdb-like web
+      hi this is a simple web app called......movieapp
     </p>
   </div>
 </template>
